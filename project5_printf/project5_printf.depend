@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625715418 source:c:\users\hix\desktop\test\c projects\project5_printf\main.c
+	<stdio.h>
+	<stdlib.h>
+

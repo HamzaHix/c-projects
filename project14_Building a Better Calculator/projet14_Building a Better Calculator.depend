@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625845817 source:c:\users\hix\desktop\test\c projects\projet14_building a better calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
